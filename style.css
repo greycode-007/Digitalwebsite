@@ -559,7 +559,7 @@ padding-right: 30px;
 
 
     footer{
-        height: 190px;
+        height: 150px;
         width: 100%;
         padding-left: 51px;
         background-color: #1f2c61;
@@ -594,7 +594,8 @@ padding-right: 30px;
 
     .credit{
       font-family: 'Quicksand', sans-serif;
-      line-height: 2em;
+      font-size: 0.7em;
+
     }
     
 
