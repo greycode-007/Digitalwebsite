@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Visit The Website ](https://your-live-site-url.com)
+- Live Site URL: [Visit The Website ](https://greycode-007.github.io/Digitalwebsite/#)
 
 ## My process
 
@@ -74,5 +74,3 @@ const proudOfThisFunc = () => {
 ## Acknowledgments
 
 Thanks to Raheemat Atata, Her UI which i saw on twitter was the motivtion needed to begin this project.
-
-# Digital-Currency
